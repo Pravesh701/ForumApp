@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_announcements"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/nav_forum"
+            android:icon="@drawable/ic_forum_black_24dp"
+            android:title="Forum" />
+        <item
+            android:id="@+id/nav_recommendations"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="Recommendations" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="Feedback" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share this App" />
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/ic_contact_phone_black_24dp"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+    <item android:title="Account Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_account_settings"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+</menu>

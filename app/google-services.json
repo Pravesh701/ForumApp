@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831863298",
+    "firebase_url": "https://bookpal-forum.firebaseio.com",
+    "project_id": "bookpal-forum",
+    "storage_bucket": "bookpal-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831863298:android:2533adf1ea636fd0",
+        "android_client_info": {
+          "package_name": "just.android.uplabdhisingh.bookpalforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831863298-mk9gnj6ssf7sp3fc4te7700bq3omphc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9N1AO0Ci1Sq68icc1_J_C0hrihUfIMZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
